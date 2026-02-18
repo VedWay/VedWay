@@ -51,12 +51,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedWay&show_icons=true&theme=tokyonight&border_radius=12" width="45%"/>
+ 
   <img src="https://streak-stats.demolab.com?user=VedWay&theme=tokyonight&border_radius=12" width="45%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedWay&layout=compact&theme=tokyonight&border_radius=12" width="40%"/>
 </p>
 
 ---
