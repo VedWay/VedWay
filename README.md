@@ -1,8 +1,6 @@
-<h1 align="center">⚡ Hi, I'm Vedant (VedWay) 👨‍💻</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Learner;Web3+Enthusiast;DSA+with+C%2B%2B;Welcome+to+my+GitHub+Universe+🚀" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Vedant;VedWay;Code.+Create.+Conquer." />
+</h1>
 
 ---
 
@@ -16,7 +14,6 @@
 - 🔭 Building Full Stack Web Apps
 - 🌱 Learning AI / ML & Web3
 - 💬 Ask me about **C++, DSA, React, Node.js, MongoDB**
-- ⚡ Fun fact: I love solving coding challenges at night 🌙
 
 ---
 
@@ -64,8 +61,7 @@
 
 ### 🌐 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 🌍 Portfolio: https://YOUR_PORTFOLIO.com
-- 📧 Email: yourmail@gmail.com
+- 📧 Email: vedantshimpi2006@gmail.com
 
 ---
 
