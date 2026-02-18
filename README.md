@@ -66,8 +66,9 @@
 
 ## 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VedWay/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/VedWay/VedWay/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 ---
 
