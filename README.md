@@ -57,13 +57,6 @@
 
 ---
 
-## 🏆 LeetCode & Coding
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Vedant_7?theme=dark&font=Baloo&ext=contest" />
-</p>
-
----
-
 ## 🐍 Contribution Snake Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/VedWay/VedWay/output/github-contribution-grid-snake-dark.svg" />
