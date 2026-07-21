@@ -6,7 +6,7 @@
 
 ###  About Me
 
--  B.Tech in Information Technology @ **VJTI, Mumbai** (CGPA: 8.05/10.0) — Class of 2028
+-  B.Tech in Information Technology @ **VJTI, Mumbai** (CGPA: 8.01/10.0) — Class of 2028
 -  Passionate about **AI/LLM systems**, especially RAG pipelines and multi-agent architectures
 -  Full-stack developer comfortable across **React/Next.js** frontends and **Node.js/FastAPI** backends
 -  Based in Mumbai, India
