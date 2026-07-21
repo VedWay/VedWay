@@ -71,13 +71,13 @@
 
 ### 🌟 Featured Projects
 
-####  [RagNexus](https://github.com/VedWay) — *LangChain • Qdrant • Python • BM25 • Transformers*
+####  [RagNexus](https://rag-nexus-nu.vercel.app/) — *LangChain • Qdrant • Python • BM25 • Transformers*
 A modular, production-grade **RAG pipeline** for enterprise document Q&A at scale. Combines dense vector embeddings (Qdrant) with BM25 sparse retrieval through weighted fusion, layered with HyDE query expansion and a cross-encoder (MiniLM) reranker to boost precision. Evaluated using RAGAs metrics (faithfulness, answer relevancy, context recall). Hardened with JWT auth, per-tenant data isolation, and rate limiting for multi-tenant use.
 
-####  [ResearchMind](https://github.com/VedWay) — *FastAPI • LangChain • Python • BeautifulSoup • React • Groq*
+####  [ResearchMind](https://research-mind-nu.vercel.app/) — *FastAPI • LangChain • Python • BeautifulSoup • React • Groq*
 A local **multi-agent research assistant** orchestrating a 4-phase pipeline (search → scrape → draft → critique) using LangChain agents. Features a writer–critic chain architecture where one agent drafts structured reports and another scores/critiques them against a fixed rubric — all exposed via a FastAPI + React app.
 
-####  [LabTrack](https://github.com/VedWay) — *React.js • Node.js • Express.js • Supabase • Socket.IO • Tailwind CSS*
+####  [LabTrack](https://labtrack-vjti.vercel.app/) — *React.js • Node.js • Express.js • Supabase • Socket.IO • Tailwind CSS*
 A full-stack **lab asset & complaint management system** with role-based access control, real-time Kanban complaint tracking via Socket.IO, AI-assisted complaint prioritization with SLA monitoring, and analytics dashboards with CSV/Excel/PDF export.
 
 ---
