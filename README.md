@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Vedant Shimpi 👋</h1>
-<h3 align="center">Building AI-powered systems, RAG pipelines, and full-stack applications</h3>
+<h1 align="center">Hi there, I'm Vedant Shimpi 👋</h1> <h3 align="center">Building AI-powered systems, RAG pipelines, and full-stack applications</h3> <div align="center">
 
-<a href="https://linkedin.com/in/Vedant-Shimpi7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:vedantshimpi2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/VedWay"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://x.com/VedShim"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> </p>
+<a href="https://linkedin.com/in/Vedant-Shimpi7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:vedantshimpi2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/VedWay"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://x.com/VedShim"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
+</div>
 ---
 
 ### 🚀 About Me
