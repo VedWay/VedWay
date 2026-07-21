@@ -3,9 +3,8 @@
 <a href="https://linkedin.com/in/Vedant-Shimpi7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:vedantshimpi2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/VedWay"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://x.com/VedShim"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 </div>
----
 
-### 🚀 About Me
+###  About Me
 
 -  B.Tech in Information Technology @ **VJTI, Mumbai** (CGPA: 8.05/10.0) — Class of 2028
 -  Passionate about **AI/LLM systems**, especially RAG pipelines and multi-agent architectures
@@ -15,7 +14,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 <p>
@@ -72,13 +71,13 @@
 
 ### 🌟 Featured Projects
 
-#### 🔍 [RagNexus](https://github.com/VedWay) — *LangChain • Qdrant • Python • BM25 • Transformers*
+####  [RagNexus](https://github.com/VedWay) — *LangChain • Qdrant • Python • BM25 • Transformers*
 A modular, production-grade **RAG pipeline** for enterprise document Q&A at scale. Combines dense vector embeddings (Qdrant) with BM25 sparse retrieval through weighted fusion, layered with HyDE query expansion and a cross-encoder (MiniLM) reranker to boost precision. Evaluated using RAGAs metrics (faithfulness, answer relevancy, context recall). Hardened with JWT auth, per-tenant data isolation, and rate limiting for multi-tenant use.
 
-#### 🧠 [ResearchMind](https://github.com/VedWay) — *FastAPI • LangChain • Python • BeautifulSoup • React • Groq*
+####  [ResearchMind](https://github.com/VedWay) — *FastAPI • LangChain • Python • BeautifulSoup • React • Groq*
 A local **multi-agent research assistant** orchestrating a 4-phase pipeline (search → scrape → draft → critique) using LangChain agents. Features a writer–critic chain architecture where one agent drafts structured reports and another scores/critiques them against a fixed rubric — all exposed via a FastAPI + React app.
 
-#### 🧪 [LabTrack](https://github.com/VedWay) — *React.js • Node.js • Express.js • Supabase • Socket.IO • Tailwind CSS*
+####  [LabTrack](https://github.com/VedWay) — *React.js • Node.js • Express.js • Supabase • Socket.IO • Tailwind CSS*
 A full-stack **lab asset & complaint management system** with role-based access control, real-time Kanban complaint tracking via Socket.IO, AI-assisted complaint prioritization with SLA monitoring, and analytics dashboards with CSV/Excel/PDF export.
 
 ---
