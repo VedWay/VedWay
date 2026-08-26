@@ -84,10 +84,7 @@ A full-stack **lab asset & complaint management system** with role-based access 
 
 ### 📊 GitHub Stats
 
-<p align="center">
- 
-  <img src="https://streak-stats.demolab.com?user=VedWay&theme=tokyonight&border_radius=12" width="45%"/>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/VedWay/VedWay/main/assets/pr-chart.svg" width="48%"/> <img src="https://raw.githubusercontent.com/VedWay/VedWay/main/assets/stats-card.svg" width="48%"/> </p>
 
 
 ---
