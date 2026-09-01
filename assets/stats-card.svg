@@ -5,11 +5,11 @@
     <text x="24" y="60" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">Total Stars</text>
     <text x="380" y="60" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#c9d1d9">14</text>
     <text x="24" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">Total Commits</text>
-    <text x="380" y="92" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#c9d1d9">308</text>
+    <text x="380" y="92" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#c9d1d9">309</text>
     <text x="24" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">Total PRs</text>
     <text x="380" y="124" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#c9d1d9">10</text>
     <text x="24" y="156" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">PRs Merged</text>
-    <text x="380" y="156" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#c9d1d9">6 (60%)</text>
+    <text x="380" y="156" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#c9d1d9">7 (70%)</text>
     <text x="24" y="188" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">Followers</text>
     <text x="380" y="188" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#c9d1d9">8</text>
 </svg>
