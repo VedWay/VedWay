@@ -2,16 +2,16 @@
   <rect width="520" height="300" rx="12" fill="#0d1117"/>
   <text x="20" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#c9d1d9">VedWay's Pull Request Breakdown</text>
   <g>
-    <path d="M 130,150 L 130.000,60.000 A 90,90 0 1 1 44.405,177.812 Z" fill="#3fb950" stroke="#0d1117" stroke-width="2"/><path d="M 130,150 L 44.405,177.812 A 90,90 0 0 1 77.099,77.188 Z" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/><path d="M 130,150 L 77.099,77.188 A 90,90 0 0 1 130.000,60.000 Z" fill="#f85149" stroke="#0d1117" stroke-width="2"/>
+    <path d="M 130,150 L 130.000,60.000 A 90,90 0 1 1 44.405,122.188 Z" fill="#3fb950" stroke="#0d1117" stroke-width="2"/><path d="M 130,150 L 44.405,122.188 A 90,90 0 0 1 77.099,77.188 Z" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/><path d="M 130,150 L 77.099,77.188 A 90,90 0 0 1 130.000,60.000 Z" fill="#f85149" stroke="#0d1117" stroke-width="2"/>
     <circle cx="130" cy="150" r="45" fill="#0d1117"/>
     <text x="130" y="146" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#c9d1d9">10</text>
     <text x="130" y="166" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">Total PRs</text>
   </g>
   <g>
     <rect x="270" y="28" width="14" height="14" rx="3" fill="#3fb950"/>
-    <text x="292" y="40" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#c9d1d9">Merged: 7 (70%)</text>
+    <text x="292" y="40" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#c9d1d9">Merged: 8 (80%)</text>
     <rect x="270" y="56" width="14" height="14" rx="3" fill="#58a6ff"/>
-    <text x="292" y="68" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#c9d1d9">Open: 2 (20%)</text>
+    <text x="292" y="68" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#c9d1d9">Open: 1 (10%)</text>
     <rect x="270" y="84" width="14" height="14" rx="3" fill="#f85149"/>
     <text x="292" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#c9d1d9">Closed (unmerged): 1 (10%)</text></g>
   <text x="20" y="285" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#484f58">Auto-updated via GitHub Actions</text>
